@@ -2,3 +2,4 @@ mediapipe
 streamlit
 opencv-python
 numpy
+mesa
